@@ -49,6 +49,6 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Site
 
-Deployed Site: 
+Deployed Site: http://127.0.0.1:5500/index.html
 
-GitHub URL: 
+GitHub URL: https://github.com/shavanapuchta/Password-Generator-Module-3
