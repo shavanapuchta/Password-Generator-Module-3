@@ -27,6 +27,25 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+## Application
+
+
+<img width="863" alt="Screen Shot 2023-06-06 at 11 55 53 AM" src="https://github.com/shavanapuchta/Password-Generator-Module-3/assets/119765380/cae5e496-71cd-4ccc-a9cd-7113644330ad">
+
+
+<img width="865" alt="Screen Shot 2023-06-06 at 11 56 02 AM" src="https://github.com/shavanapuchta/Password-Generator-Module-3/assets/119765380/151839bf-ff6f-4601-94c1-55ba69347358">
+
+
+<img width="853" alt="Screen Shot 2023-06-06 at 11 56 11 AM" src="https://github.com/shavanapuchta/Password-Generator-Module-3/assets/119765380/18cd8c8a-3bd9-4bab-9e0e-977be0cec98b">
+
+
+<img width="868" alt="Screen Shot 2023-06-06 at 11 56 18 AM" src="https://github.com/shavanapuchta/Password-Generator-Module-3/assets/119765380/9fb3cbd6-c2af-419f-a3a9-2f4c1ffa1391">
+
+
+<img width="859" alt="Screen Shot 2023-06-06 at 11 56 25 AM" src="https://github.com/shavanapuchta/Password-Generator-Module-3/assets/119765380/01956bf0-a31a-4f26-ac34-eb2fe311acf7">
+
+
+<img width="848" alt="Screen Shot 2023-06-06 at 11 56 34 AM" src="https://github.com/shavanapuchta/Password-Generator-Module-3/assets/119765380/2dc28ae5-c49f-40f6-84c2-6b8273ebb19f">
 
 ## Site
 
